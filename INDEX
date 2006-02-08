@@ -1,0 +1,9 @@
+rpart.permutation.addPvalues
+                        Function to add P-values to an rpart object.
+rpart.permutation.clientFunc
+                        Worker function for MPI client nodes
+doRpartPermutationTest
+                        Function to permutation test an rpart model.
+rpart.permutation.mergeResults
+                        Function to merge results from a series of MPI
+                        client nodes.
