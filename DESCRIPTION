@@ -1,9 +1,9 @@
 Package: rpart.permutation
 Title: Permutation testing of rpart models
-Version: 1.01
+Version: 1.01-1
 Author: Daniel S. Myers
 Description: Performs permutation tests of rpart models.
-Maintainer: Daniel S. Myers <dmyers@umiacs.umd.edu>
+Maintainer: ORPHANED
 License: GPL
 Depends: rpart,snow
-Packaged: Wed Feb  8 12:59:00 2006; hornik
+Packaged: Sun Oct 21 00:23:48 2007; hornik
